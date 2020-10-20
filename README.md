@@ -1,4 +1,4 @@
-# phrat </br>
+# ph-rat </br>
 Informações: </br>
 Controle Remoto </br>
 Versão: 1.8 </br>
