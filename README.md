@@ -1,6 +1,6 @@
 # phrat
 Informações:
-Controle Remoto
+Controle RemotO </br>
 Versão: 1.8
 Linguagem: PT-BR
 
