@@ -14,4 +14,4 @@ OBS: </br>
 Não Esqueça De Extrair: (Forms.Zip) </br>
 Não Nos Responsabilizamos Por Seus Atos!
 
-<img src="https://i.ibb.co/gdjYNzK/dsds.png" alt="some text" width=1280 height=1024>
+<img src="https://i.ibb.co/gdjYNzK/dsds.png" alt="some text" width=1000 height=1024>
