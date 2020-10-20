@@ -1,4 +1,4 @@
-# software ph-rat </br>
+# Software PH-Rat </br>
 Informações: </br>
 Controle Remoto </br>
 Versão: 1.8 </br>
