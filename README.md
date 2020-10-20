@@ -1,13 +1,13 @@
-# phrat
-Informações:
+# phrat </br>
+Informações: </br>
 Controle RemotO </br>
-Versão: 1.8
-Linguagem: PT-BR
+Versão: 1.8 </br>
+Linguagem: PT-BR </br>
 
-Desenvolvedores: 
-Programadores: PH Neves
-Design: Arthur Inrique
+Desenvolvedores: </br>
+Programadores: PH Neves </br>
+Design: Arthur Inrique </br>
 
 
-OBS:
+OBS: </br>
 Não Esqueça De Extrair: (Forms.Zip)
