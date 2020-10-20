@@ -11,4 +11,6 @@ Design: Arthur Inrique </br>
 </br>
 </br>
 OBS: </br>
-Não Esqueça De Extrair: (Forms.Zip)
+Não Esqueça De Extrair: (Forms.Zip) </br>
+Não Nos Responsabilizamos Por Seus Atos!
+
