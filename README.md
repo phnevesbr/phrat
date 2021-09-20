@@ -11,8 +11,8 @@ Sub Programador: Arthur Inrique </br>
 </br>
 </br>
 OBS: </br>
-Não Esqueça De Extrair: (Extrair.Zip / Extrair2.Zip) </br>
-Não Nos Responsabilizamos Por Seus Atos!</br>
+Não Esqueça De Extrair: (EXTRAIR1.Zip /EXTRAIR2.Zip) </br>
+Não Responsabilizamos Por Seus Atos!</br>
 </br>
 </br>
 <img src="https://i.ibb.co/xg2HBvk/1.png" alt="some text" width=900 height=600></br>
