@@ -5,7 +5,7 @@ Versão: 5.8 </br>
 Linguagem: PT-BR </br>
 </br>
 </br>
-DESENVOLVEDORES: </br>
+Desenvolvedor: </br>
 Programador: PH Neves </br>
 Sub Programador: Arthur Inrique </br>
 </br>
