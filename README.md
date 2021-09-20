@@ -7,7 +7,7 @@ Linguagem: PT-BR </br>
 </br>
 Desenvolvedores: </br>
 Programador: PH Neves </br>
-Design: Arthur Inrique </br>
+Sub Programador: Arthur Inrique </br>
 </br>
 </br>
 OBS: </br>
