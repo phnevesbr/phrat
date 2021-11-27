@@ -6,7 +6,7 @@ Linguagem: PT-BR </br>
 </br>
 </br>
 Desenvolvedor: </br>
-Programador: PH Neves </br>
+Programadores: PH Neves </br>
 Sub Programador: Arthur Inrique </br>
 </br>
 </br>
