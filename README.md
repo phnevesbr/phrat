@@ -6,8 +6,8 @@ Linguagem: PT-BR </br>
 </br>
 </br>
 Criadores: </br>
-Programador: PH Neves </br>
-Programador: Arthur Inrique </br>
+PH Neves </br>
+Arthur Inrique </br>
 </br>
 </br>
 OBS: </br>
