@@ -5,7 +5,7 @@ Informações: </br>
 - Linguagem: PT-BR </br>
 </br>
 Criadores Do Software: </br>
-- PH Neves </br>
+<::marker></::marker> PH Neves </br>
 - Arthur Inrique </br>
 </br>
 OBS: </br>
