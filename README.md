@@ -15,5 +15,3 @@ Não Esqueça De Extrair: (EXTRAIR1.Zip /EXTRAIR2.Zip) </br>
 Não Responsabilizamos Por Seus Atos!</br>
 </br>
 </br>
-<img src="https://i.ibb.co/xg2HBvk/1.png" alt="some text" width=900 height=600></br>
-<img src="https://i.ibb.co/xzsVtyL/2.png" alt="some text" width=900 height=600></br>
