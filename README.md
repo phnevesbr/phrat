@@ -1,11 +1,11 @@
 # Software PH-Rat </br>
 Informações: </br>
-- Controle Remoto </br>
-- Versão: 5.8 </br>
-- Linguagem: PT-BR </br>
+Controle Remoto </br>
+Versão: 5.8 </br>
+Linguagem: PT-BR </br>
 </br>
 Criadores Do Software: </br>
-<::marker>- PH Neves </br>
+- PH Neves </br>
 - Arthur Inrique </br>
 </br>
 OBS: </br>
