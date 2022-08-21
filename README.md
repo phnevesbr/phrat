@@ -5,9 +5,9 @@ Versão: 5.8 </br>
 Linguagem: PT-BR </br>
 </br>
 </br>
-Desenvolvedor: </br>
+Criadores: </br>
 Programador: PH Neves </br>
-Sub Programador: Arthur Inrique </br>
+Programador: Arthur Inrique </br>
 </br>
 </br>
 OBS: </br>
