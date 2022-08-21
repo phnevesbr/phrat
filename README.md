@@ -6,8 +6,8 @@
 </br>
 </br>
 Criadores Do Software: </br>
--- PH Neves </br>
--- Arthur Inrique </br>
+- PH Neves </br>
+- Arthur Inrique </br>
 </br>
 </br>
 OBS: </br>
