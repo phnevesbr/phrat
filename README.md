@@ -5,7 +5,7 @@ Versão: 5.8 </br>
 Linguagem: PT-BR </br>
 </br>
 </br>
-Criadores: </br>
+Criadores Do Software: </br>
 PH Neves </br>
 Arthur Inrique </br>
 </br>
